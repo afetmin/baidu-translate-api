@@ -1,0 +1,4 @@
+requests==2.18.4
+openpyxl==2.4.9
+tornado==4.5.3
+trip==0.0.9
